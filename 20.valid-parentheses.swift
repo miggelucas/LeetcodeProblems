@@ -26,7 +26,7 @@ class Solution {
     
         if !stack.isEmpty { return false } else { return true }
  
-        
+            
     }
 }
 // @lc code=end
